@@ -4,10 +4,10 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mlGUa6_Ni1E6CcPN0Goh-2" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mlGUa6_Ni1E6CcPN0Goh-2" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;strokeColor=none;fillColor=#D5E8D4;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="850" y="300" width="570" height="379" as="geometry" />
         </mxCell>
-        <mxCell id="mlGUa6_Ni1E6CcPN0Goh-1" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mlGUa6_Ni1E6CcPN0Goh-1" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;strokeColor=none;fillColor=#E6D0DE;opacity=30;" vertex="1" parent="1">
           <mxGeometry x="-39" y="299" width="879" height="380" as="geometry" />
         </mxCell>
         <mxCell id="OUMXYwsHuOzbVERew2cC-38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
